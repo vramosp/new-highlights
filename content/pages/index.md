@@ -237,24 +237,6 @@ sections:
         image_alt: Gordon Norman
         image_position: left
         image_width: twenty-five
-      - title_align: left
-        content: >
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-          ligula, cursus id molestie vel, maximus aliquet risus.
-
-
-          **Miles Tone,** *CEO, Studio*
-        content_align: left
-        actions: []
-        actions_align: left
-        actions_width: auto
-        image_alt: lorem-ipsum
-        image_position: left
-        image_width: twenty-five
-        image_align: left
-        image_has_padding: false
-        type: grid_item
-        image: /images/brandon-guidelines.png
     grid_cols: two
     grid_gap_horiz: medium
     grid_gap_vert: large
